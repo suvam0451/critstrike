@@ -1,4 +1,4 @@
-// © 2020 Debashish Patra Some Rights Reserved
+// Copyright © 2020 Debashish Patra <suvam0451@outlook.com> -- MPL-2.0
 
 package docgen
 

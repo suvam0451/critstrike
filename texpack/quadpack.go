@@ -1,3 +1,5 @@
+// Copyright © 2020 Debashish Patra <suvam0451@outlook.com> -- MPL-2.0
+
 package texpack
 
 import (
